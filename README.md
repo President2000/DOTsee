@@ -1,6 +1,5 @@
 # DOTsee
  DOTsee hệ thống nhận dạng phi tập trung giúp người dùng kiểm soát và quản lý danh tính kỹ thuật số 
-Tôi đã tạo một hệ thống DID hoàn chỉnh trên Polkadot bao gồm:
 
 Smart Contract (Substrate pallet):
 
